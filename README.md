@@ -22,7 +22,7 @@ var config = {
                 lng: -122.2920096,
                 height: '300px',
                 width: '300px',
-                zoom: 12,
+                zoom: 10,
                 enableTraffic: true,
                 disableDefaultUI: true,
                 styles: [

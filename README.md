@@ -135,7 +135,7 @@ The easiest way to obtain latitude and longitude coordinates is via [Google Maps
 
 ![Alt text](/img/coordinates.png "Google Maps coordinates.")
 
-## Map Style
+## Google Maps Style
 
-See map formatting guide by Google for a general guide: https://developers.google.com/maps/documentation/javascript/styling
+See map formatting guide by Google for a general guide: https://developers.google.com/maps/documentation/javascript/styling <br>
 For an interactive configuration and preview, see: https://mapstyle.withgoogle.com/
